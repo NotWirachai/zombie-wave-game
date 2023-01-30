@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mischievous_zombie_low
+  m_Controller: {fileID: 9100000, guid: 0f7371c1904717e4e8bbf31fc1b250fe, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 90a49ad4733c6294d922bfb4756a8904, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2a6c1cad39752034a8b260cd1811734c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 609d66d96b9f4df4eb19b0b146144af8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: df4c400e7ece0f644b8566f8ed513ddc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 28bd806b96a5ff74fb7b676c05113786, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d1d48b8bc6cc9f54681736f6586f8d1e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 95c676efab8fa83408e31a3e0d78cba1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2ffb82ea5cc499f49a00802381633d23, type: 2}

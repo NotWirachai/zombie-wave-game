@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: prisoner_zombie_low
+  m_Controller: {fileID: 9100000, guid: 0f7371c1904717e4e8bbf31fc1b250fe, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 90a49ad4733c6294d922bfb4756a8904, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3278680702a884e40ab37d0ef2aa6a0a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 609d66d96b9f4df4eb19b0b146144af8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b3f0ea045bd687a45a4d82c3e20774cb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 28bd806b96a5ff74fb7b676c05113786, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3fb3d0e8521b6fb47826d97bb23f7316, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 95c676efab8fa83408e31a3e0d78cba1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 41d66800c5bac96468cbfddb572b8da8, type: 2}

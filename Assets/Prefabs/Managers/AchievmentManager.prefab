@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7516134239448188616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7516134239448188617}
+  - component: {fileID: 7516134239448188618}
+  m_Layer: 0
+  m_Name: AchievmentManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7516134239448188617
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7516134239448188616}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 481.6343, y: 166.36179, z: -25.629578}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7516134239448188618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7516134239448188616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d59d302abfbc546a9142c5b43e7494, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  achievmentCardPrefab: {fileID: 9212103432597940934, guid: 63c0b4f5627d7634b91f8365ed4098b0, type: 3}
+  achievmentPanelContainer: {fileID: 0}
+  achievments:
+  - {fileID: 11400000, guid: de0ee115c6a6b2c4a8dc4e2011d07188, type: 2}
+  - {fileID: 11400000, guid: ba8688304a50c364eb414a12c741edaf, type: 2}
+  - {fileID: 11400000, guid: d5b1107a20af0864eb8b787f1ea8f261, type: 2}
+  - {fileID: 11400000, guid: 49b1120b0d7bd9a4aa387e6b39f507ed, type: 2}
+  - {fileID: 11400000, guid: 452d691284b214f448a2dac3fe9cc1db, type: 2}
+  - {fileID: 11400000, guid: 8949184225c89594883725b377722f88, type: 2}
+  - {fileID: 11400000, guid: a6783526d15368c4a9c98877548f96ed, type: 2}

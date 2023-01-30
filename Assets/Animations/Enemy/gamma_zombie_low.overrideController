@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: gamma_zombie_low
+  m_Controller: {fileID: 9100000, guid: 0f7371c1904717e4e8bbf31fc1b250fe, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 90a49ad4733c6294d922bfb4756a8904, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4e66bf2535407f7469d3f5c69b379f3d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 609d66d96b9f4df4eb19b0b146144af8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6de50a644877fe94e8999113b3153261, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 28bd806b96a5ff74fb7b676c05113786, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ffcf9c8cc15346a49848cf90a2f199b5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 95c676efab8fa83408e31a3e0d78cba1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: def4cdec4d9e3ba4886710d6038dcee0, type: 2}

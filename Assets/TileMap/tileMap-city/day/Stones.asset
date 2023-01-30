@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdc5e1eccedb29e4894bbfab99032590, type: 3}
+  m_Name: Stones
+  m_EditorClassIdentifier: 
+  m_Cells:
+  - m_Tile: {fileID: 0}
+    m_Matrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Pivot: {x: 0, y: 0, z: 0}
+  m_CanChangeZPosition: 0
+  m_FloodFillContiguousOnly: 1
+  m_Anchor: {x: 0.5, y: 0.5, z: 0.5}
+  m_Prefabs:
+  - {fileID: 3176847575632199805, guid: 28a13aff3586ec2418a516c6e8092072, type: 3}
+  - {fileID: 3252236245406556727, guid: 2dab6c9be8df3eb4f91cef5691066838, type: 3}
+  - {fileID: 5768940256702672293, guid: 0dafe93ccabd671448dcd0d8dc770a11, type: 3}
+  - {fileID: 1146409220761499771, guid: bb44eea44595f904987bd854f11bdc46, type: 3}
+  - {fileID: 5048616321300478981, guid: d8accfad12d1a8447a1383d80d6c153e, type: 3}
+  - {fileID: 7026686256783120716, guid: 7a19351e23a5a7548a36e113e172d1ac, type: 3}
+  - {fileID: 2737477745504647464, guid: c0942baaec65f364d88f31bdaf105710, type: 3}
+  - {fileID: 706548154121881480, guid: 0f272025d95fb794db929db4e4b91e48, type: 3}
+  - {fileID: 3984028583218425647, guid: 351a5131f76d3b341899d7fdb11d2b4d, type: 3}
+  - {fileID: 4051337360517967064, guid: c7cc39db31ba09949b31e701a72d4097, type: 3}
+  - {fileID: 212811811624181180, guid: 92a9d2f945056104a9dde37cbde2d6a0, type: 3}
+  - {fileID: 2336157354094958121, guid: a17aa73e1d88a0f46894437ba519c339, type: 3}
+  m_PerlinScale: 0.5

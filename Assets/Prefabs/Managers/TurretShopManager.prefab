@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &764813066607926042
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 764813066607926043}
+  - component: {fileID: 764813066607926040}
+  m_Layer: 0
+  m_Name: TurretShopManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &764813066607926043
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 764813066607926042}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &764813066607926040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 764813066607926042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5ac70ac13abf084dbfaa0ebb34ec8ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turretCardPrefab: {fileID: 6059204767712320519, guid: fa5e9089f70308b44a152f04090e8ea7, type: 3}
+  turretPanelContainer: {fileID: 0}
+  turrets:
+  - {fileID: 11400000, guid: 98fd2bf23870baf4d8d51f0cbc6ba6a4, type: 2}
+  - {fileID: 11400000, guid: 27c5962bf1147784097e544036d6684f, type: 2}
+  - {fileID: 11400000, guid: 4598dfaafc765eb4f80b5444a10853f5, type: 2}
+  - {fileID: 11400000, guid: 33850d53235b4244e901433d125f6ebb, type: 2}
+  - {fileID: 11400000, guid: 45664ed8ae4f47346988c33cb2c8c4c4, type: 2}
+  - {fileID: 11400000, guid: 178ebcc8cfb86b14d91e057ca5e8d2e5, type: 2}
